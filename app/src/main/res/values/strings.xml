@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cvs</string>
+    <string name="title_text">Title: </string>
+    <string name="desc_text">Description: </string>
+    <string name="height_text">Height: </string>
+    <string name="width_text">Width: </string>
+    <string name="author_text">Author: </string>
+    <string name="placeholder_text">Search</string>
+    <string name="no_searches_text">You have no recent searches.</string>
+</resources>
